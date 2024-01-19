@@ -1,6 +1,6 @@
 ---
 title: Homework Assignment 1
-author: John Leonard
+author: Satya Shenoy
 date: last-modified
 format:
   html:

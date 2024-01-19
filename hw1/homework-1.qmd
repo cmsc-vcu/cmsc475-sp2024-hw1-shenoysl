@@ -1,6 +1,6 @@
 ---
 title: Homework Assignment 1
-author: Drop your name here
+author: Satya Shenoy
 date: last-modified
 format:
   html:
@@ -8,22 +8,21 @@ format:
     smooth-scroll: true
     embed-resources: true
 ---
+# Assignment Overview
 
-(delete the following paragraphs)
-Welcome to homework assignment 1!  For most homework assignments in this class, you'll be submitting quarto-generated HTML reports documenting your work.
+This is homework #1 for CMSC 475, for this assignment and for future assignments, I will be submitting HTML reports which show my work, these reports will be generated or rendered by quarto. 
 
-For this assignment, you'll be documenting that you installed the necessary software by embedding a screen shot of your terminal window, showing the appropriate versions of the software.
+The first main task for this assignment was to first get all of the software that I will need and utilize throughout the semester, installed onto my machine and show proof of installation along with the correct version of each piece of software by taking a screenshot of my terminal window showing each software's version. 
 
-You'll also be embedding URLs taken from several web sites that we'll be using as part of our exploration of user interface design this semester.
-(delete the paragraphs above)
+The next main task for this assignment was to create accounts for Figma.com, Expo.dev, and p5Js.org, as these will be websites that will be used throughout the semester for various tasks. Along with creating accounts, I am tasked with embedding urls from expo.dev of a simple mobile UI and a url from p5js.org of a simple image.
 
-(Remove the paragraphs above and add a description of this project in your own words.)
+The overall goal of this assignment is for me to dip my toes in the water of the various software and overall design of this course and it's assignments. 
 
 # Software Installation
 
 Yes, I installed the necessary software.  Below is a screen shot showing the versions of the software that I've got running on my machine.  These programs are all on the PATH and can all be run from the command line, too!
 
-![](assets/cmsc475-sp2024-hw1-versions.png)
+![](/Users/satyashenoy/Desktop/Classes/CMSC475/cmsc475-sp2024-hw1-shenoysl/hw1/assets/Software-Installation.png)
 
 **Instructions***: *Your job is to modify the [markdown image link](https://quarto.org/docs/authoring/markdown-basics.html#links-images) above with an image that you create.  I generally store images in an *assets* fomder directly under the folder containing my main report folders.*
 
@@ -53,7 +52,7 @@ Once you create your account, experiment around until you create an image that l
 
 <center>
 <iframe
-src="https://editor.p5js.org/jleonard99/full/czZsouwoG"
+src="https://editor.p5js.org/shenoysl/full/18shxo2jX"
 width=400
 height=250
 data-external="1"
@@ -68,7 +67,7 @@ Yes, I set up my expo account and created a sample expo application.  Below is a
 
 <center>
 <iframe 
-src="https://appetize.io/embed/8bnmakzrptf1hv9dq7v7bnteem?autoplay=false&debug=true&device=iphone12&deviceColor=black&embed=true&orientation=portrait&scale=72&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelLaunchUrlDefaultsKey%22%3A%22exp%3A%2F%2Fexp.host%2F%40jleonard99%2Fhomework-1-example%2B9!6OAJyXQN%22%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D"
+src="https://appetize.io/embed/8bnmakzrptf1hv9dq7v7bnteem?autoplay=false&debug=true&device=iphone12&deviceColor=black&embed=true&orientation=portrait&scale=72&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelLaunchUrlDefaultsKey%22%3A%22exp%3A%2F%2Fexp.host%2F%40shenoysl%2Fthrilled-yellow-scones%2BoUvWrVH4!F%22%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D"
 width="100%" 
 height="700" 
 frameborder="0" 
@@ -79,4 +78,4 @@ data-external="1"
 
 # Reflection
 
-(remove this text and add a reflection of your own.  What did you like about this assignment?  What was difficult?  What would you do different?)
+I did enjoy this assignment for various reasons, the first one being the use of quarto. I don't have any prior experience with quarto but using it for this assignment showed me why Dr. Leonard uses it. It is a super neat piece of software and I love the ease of embedding images, urls, etc. as well as how easily you can render it to various types of files, here being html. Another aspect of this assignment that I liked was working with both p5Js and expo.dev, even though I did very minor adjustments to already given code, I still found the ease of use of both tools to be fantastic, and I am very excited to continue using these tools and build much more advanced UI/UX designs. Lastly, I really like how much I am able to show that I understand and give my thoughts on the assignment, from giving it my own brief description, to writing this reflection, I feel like this is going to be very beneficial in me actually absorbing the material and can also see that the professor truly cares about what I'm doing. I don't really have any glaring negatives of this assignment as it was a very basic introduction to the course, I'm honestly just really eager to continue working and see what the next assignment holds!
